@@ -1,4 +1,4 @@
-# Justjava-Android
+# Just-Java-Android
 
 THIS PROJECT IS MADE DURING THE ANDROID - USER INPUT COURSE -- UDACITY
 
