@@ -1,7 +1,7 @@
 # Just-Java-Android
 
-THIS PROJECT IS MADE DURING THE ANDROID - USER INPUT COURSE -- UDACITY
+*THIS PROJECT IS MADE DURING THE ANDROID - USER INPUT COURSE -- UDACITY
 
-This project simply takes the input number of orders user want to place and return the total price of the order.
+*This project simply takes the input number of orders user want to place and return the total price of the order.
 
-This app is run and tested successfully on nexus4.
+*This app is run and tested successfully on nexus4.
