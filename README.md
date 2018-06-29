@@ -4,4 +4,4 @@
 
 *This project simply takes the input number of orders user want to place and return the total price of the order.
 
-*This app is run and tested successfully on Nexus4.
+*This App is run and tested successfully on Nexus4.
